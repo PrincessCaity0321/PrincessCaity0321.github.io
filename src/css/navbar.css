@@ -1,0 +1,12 @@
+nav {
+	animation: topToDown 1.5s ease-in;
+}
+
+.active {
+	text-decoration: underline;
+}
+
+.navbar-logo {
+	position: relative;
+	bottom: 6px;
+}
